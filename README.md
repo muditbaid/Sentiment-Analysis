@@ -1,6 +1,4 @@
-# Sentiment-Analysis
-
-## Employee Sentiment Analysis for Mental Health and Well-being
+# Employee Sentiment Analysis
 
 **Motivation:**
 
@@ -36,16 +34,8 @@ This project will explore various sentiment analysis techniques, including:
 * Prevent the negative consequences of poor mental health in the workplace.
 * Enable organizations to make data-driven decisions for fostering a supportive and thriving work culture.
 
-**Get Involved:**
-
-This is an ongoing project, and we welcome your feedback and collaboration. We believe that by employing sentiment analysis, we can create workplaces that prioritize employee mental health and well-being.
-
 **Additional Resources:**
 
 * World Health Organization: Mental health in the workplace [https://www.who.int/campaigns/world-mental-health-day](https://www.who.int/campaigns/world-mental-health-day)
 * International Labour Organization: Guidelines for managing psychosocial risks at work [https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---actrav/documents/publication/wcms_551796.pdf](https://www.ilo.org/wcmsp5/groups/public/---ed_dialogue/---actrav/documents/publication/wcms_551796.pdf)
 * Stanford Encyclopedia of Philosophy: Sentiment analysis [https://nlp.stanford.edu/sentiment/](https://nlp.stanford.edu/sentiment/)
-
-**Note:** This is a basic outline in Readme.md format. Feel free to further customize it based on your specific project details, including datasets, methodology, and desired outcomes.
-
-I hope this helps! Let me know if you have any other questions.
